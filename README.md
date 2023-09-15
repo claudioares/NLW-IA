@@ -97,3 +97,11 @@ Oferece uma solução eficaz para criadores de conteúdo economizarem tempo vali
 📦 Vite para um desenvolvimento rápido
 
 📡 Axios para comunicação eficiente com APIs externas
+
+##
+
+💬 Entre em Contato:
+
+Email: claudiojasoares.dev@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/claudio-soares-dev/
