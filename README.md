@@ -21,8 +21,6 @@ A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela anali
 
    ```bash
    SSH: git@github.com:claudioares/NLW-IA.git
-   ```bash
-   HTTP: https://github.com/claudioares/NLW-IA.git
    
 2. Instale as dependências:
 
