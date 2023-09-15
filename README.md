@@ -25,7 +25,7 @@ A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela anali
 2. Instale as dependências:
 
       ```bash
-      cd descriptune
+      cd upload-ia-api
       npm install
 
 3. Configure suas credenciais da API da OpenAI no arquivo .env:
