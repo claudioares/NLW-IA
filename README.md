@@ -59,4 +59,14 @@ A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela anali
 
    ```bash
    pnpm run dev
-   
+
+🌐 Tecnologias Utilizadas:
+
+🚀 Node.js
+🏎️ Fastify para um desempenho excepcional
+🧰 Zod para validação de dados sólidos
+⚙️ TypeScript para um desenvolvimento mais robusto
+🤖 IA da OpenAI para geração de conteúdo inteligente
+🎨 Tailwind CSS para uma interface elegante e responsiva
+📦 Vite para um desenvolvimento rápido
+📡 Axios para comunicação eficiente com APIs externas
