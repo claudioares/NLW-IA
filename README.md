@@ -2,10 +2,9 @@
 
 Bem-vindo ao DescripTune, uma aplicação inovadora que utiliza IA para gerar descrições e títulos de vídeos no YouTube. Esta poderosa ferramenta é projetada para economizar seu tempo valioso e melhorar a visibilidade do seu conteúdo. Crie descrições envolventes e títulos otimizados com facilidade.
 
-![DescripTune](
    ![image](https://github.com/claudioares/NLW-IA/assets/95495192/de59a4b7-e0ab-4cf9-9f5d-7630b6da08d2)
+   ![image](https://github.com/claudioares/NLW-IA/assets/95495192/7a8631b6-e7e7-4c1d-a452-e95946e028ca)
 
-)
 
 ## Como Funciona?
 
