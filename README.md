@@ -45,12 +45,12 @@ A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela anali
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/descriptune.git
+   SSH: git@github.com:claudioares/NLW-IA.git
    
 2. Instale as dependências:
 
       ```bash
-      cd descriptune
+      cd upload-ia-front
       npm install
 
 3. Inicie o servidor:
