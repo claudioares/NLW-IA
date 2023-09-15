@@ -9,6 +9,7 @@ Bem-vindo ao DescripTune, uma aplicação inovadora que utiliza IA para gerar de
 ## Como Funciona?
 
 A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela analisa seu vídeo, identifica palavras-chave relevantes e gera automaticamente descrições atraentes e títulos otimizados para SEO.
+Oferece uma solução eficaz para criadores de conteúdo economizarem tempo valioso, permitindo que se concentrem na criação de vídeos incríveis.
 
 ## Principais Recursos
 
@@ -60,13 +61,22 @@ A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela anali
    ```bash
    pnpm run dev
 
+##
+
 🌐 Tecnologias Utilizadas:
 
 🚀 Node.js
-🏎️ Fastify para um desempenho excepcional
+
+🏎️ Fastify para um desempenho excepcional.
+
 🧰 Zod para validação de dados sólidos
+
 ⚙️ TypeScript para um desenvolvimento mais robusto
+
 🤖 IA da OpenAI para geração de conteúdo inteligente
+
 🎨 Tailwind CSS para uma interface elegante e responsiva
+
 📦 Vite para um desenvolvimento rápido
+
 📡 Axios para comunicação eficiente com APIs externas
