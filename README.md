@@ -11,6 +11,23 @@ Bem-vindo ao DescripTune, uma aplicação inovadora que utiliza IA para gerar de
 A DescripTune é alimentada por algoritmos de IA avançados da OpenAI. Ela analisa seu vídeo, identifica palavras-chave relevantes e gera automaticamente descrições atraentes e títulos otimizados para SEO.
 Oferece uma solução eficaz para criadores de conteúdo economizarem tempo valioso, permitindo que se concentrem na criação de vídeos incríveis.
 
+. Selecione um video:
+
+   ![image](https://github.com/claudioares/NLW-IA/assets/95495192/e88c2955-e894-40f0-b4e0-a0af83fce0a9)
+
+. Adicione palavras-chaves para ajudar a IA na sua performance:
+
+   ![image](https://github.com/claudioares/NLW-IA/assets/95495192/30ab3fa5-65cd-4b18-8481-b44755c0aa45)
+
+. Escolha um prompt:
+
+   ![image](https://github.com/claudioares/NLW-IA/assets/95495192/dcb7d546-578d-4b59-b840-a1906867bcdc)
+
+. Ajuste a temporatura e clik em "Executar"
+
+   ![image](https://github.com/claudioares/NLW-IA/assets/95495192/8f5bc195-f73f-4d95-867d-73d10c316242)
+
+
 ## Principais Recursos
 
 - **Geração Automática:** Crie descrições e títulos em segundos, economizando tempo e esforço.
