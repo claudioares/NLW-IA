@@ -6,12 +6,12 @@ generator client {
 }
 
 datasource db {
-  provider = "sqlite"
+  provider = "mongodb"
   url      = env("DATABASE_URL")
 }
 
 model Video {
-  id            String   @id @default(uuid())
+  id            String   @id @default(uuid()) @map("_id")
   name          String
   path          String
   transcription String?
@@ -19,7 +19,7 @@ model Video {
 }
 
 model Prompt {
-  id       String @id @default(uuid())
+  id       String @id @default(uuid()) @map("_id")
   title    String
   template String
 }
